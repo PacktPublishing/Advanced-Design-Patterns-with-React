@@ -26,8 +26,7 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 If you want to increase your understanding of React and apply it to real-life application development, then this video course is for you.	
 ### Technical Requirements
 This course has the following software requirements:<br/>
-React
-Javascript
+React and Javascript
 
 ## Related Products
 * [Deep Learning with Keras [Video]](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-keras-video?utm_source=github&utm_medium=repository&utm_campaign=9781789138597)
